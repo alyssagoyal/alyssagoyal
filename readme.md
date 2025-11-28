@@ -90,8 +90,8 @@ I’m working on ideas to grow my skills further!
 
 <div align="center">
 
-✉️ **Email:** *your-email-here*
-🌐 **Portfolio:** (Add link once deployed)
+✉️ **LinkedIn:** *https://www.linkedin.com/in/alyssa-goyal-1a613139b/*
+🌐 **Portfolio:** (Link)
 💬 Open to collaborations, beginner projects, and learning together!
 
 </div>
