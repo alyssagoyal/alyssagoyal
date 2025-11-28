@@ -21,7 +21,7 @@
 
 ---
 
-## ✨ About Me (For College Reviewers)
+## ✨ About Me 
 
 I am a high school student deeply passionate about Computer Science, driven by curiosity and a desire to create meaningful technological solutions. I enjoy understanding how systems function, breaking down complex problems, and transforming ideas into structured, functional applications.
 
@@ -63,13 +63,6 @@ My long-term vision is to pursue advanced studies in Computer Science and contri
 <img src="https://raw.githubusercontent.com/alyssagoyal/My-Portfolio/main/assets/preview.png" width="450" alt="Portfolio Preview"/>
 
 A professional portfolio showcasing my technical journey, projects, and academic growth in Computer Science.
-
----
-
-### 🏋️ Gym Membership Management System  
-<img src="https://raw.githubusercontent.com/alyssagoyal/Gym-Management-System/main/assets/project-preview.png" width="450" alt="Gym Management Preview"/>
-
-A Python + MySQL based system demonstrating structured programming and real-world database implementation.
 
 </div>
 
@@ -136,7 +129,7 @@ A Python + MySQL based system demonstrating structured programming and real-worl
 
 ---
 
-## 🎨 Philosophy
+## 🎨 Quote I Live By
 
 > *"Consistency builds excellence, and curiosity fuels innovation."*
 
