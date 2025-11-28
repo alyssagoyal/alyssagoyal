@@ -1,61 +1,62 @@
-# 🌸 Hi, I'm Alyssa Goyal!
+<div align="center">
 
-<!-- Animated Gradient Header -->
+# 🎓 Hi, I'm Alyssa Goyal
 
-<div align="center" style="padding:20px; border-radius:20px; background: linear-gradient(270deg, #ff9a9e, #fad0c4, #fbc2eb, #a6c1ee); background-size: 600% 600%; animation: gradientBG 12s ease infinite;">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Aspiring+Computer+Science+Student;Developer+in+Progress;Learning+%7C+Building+%7C+Growing;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Aspiring+Computer+Science+Major;High+School+Student+%7C+Class+of+2026;Builder+of+Projects+%26+Ideas;Future+Tech+Innovator" />
+
 </div>
-
-<style>
-@keyframes gradientBG {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-
-.project-card {
-  transition: transform 0.4s ease, box-shadow 0.4s ease;
-  border-radius: 15px;
-}
-.project-card:hover {
-  transform: translateY(-10px) scale(1.02);
-  box-shadow: 0 20px 40px rgba(0,0,0,0.3);
-}
-</style>
 
 ---
 
 <div align="center">
 
-🌱
-**12th Grade Student (Graduating April 2026)**
+📚  
+**Grade 12 Student | Class of 2026**  
+Mumbai, India  
 
-💻
-Passionate about **Computer Science, Web Development & Python**
+💻  
+Prospective **Computer Science Major** with a deep interest in software engineering & AI  
 
-🚀
-Currently learning **JavaScript, MySQL & AI fundamentals**
+🚀  
+Focused on building strong foundations in programming and problem-solving  
 
-📚
-Building real-world projects to strengthen my foundation
-
-✨
-Using GitHub to document my growth journey
+🎯  
+Goal: Pursue CS at a top global university and contribute to impactful tech solutions  
 
 </div>
 
 ---
 
-## ✨ About Me
+## ✨ About Me (For College Reviewers)
 
-I'm a student who thrives on creativity, curiosity, and code. I love transforming ideas into functional and meaningful digital experiences.
-Currently focused on strengthening my core programming skills while exploring AI and web technologies.
+I am a high school student passionate about Computer Science, driven by curiosity and a desire to create meaningful technology. My interest lies in understanding how systems work, solving logical problems, and transforming ideas into functional applications.
 
-I strongly believe in **learning by building**, and every project I create represents a step forward in my journey to becoming a confident software developer.
+Through hands-on projects and continuous self-learning, I am developing a solid foundation in programming, databases, and web development. I use GitHub as a way to document my academic growth, technical skills, and consistency over time.
+
+My long-term vision is to pursue advanced studies in Computer Science and contribute to areas such as AI-driven solutions, human-centered technology, and innovative software development.
 
 ---
 
-## 🧠 Auto-Updating Skills Badges
+## 🧠 Academic & Technical Focus
+
+📘  
+Programming Fundamentals & Logic Building  
+
+📗  
+Web Development & UI Engineering  
+
+📙  
+Database Systems & Data Handling  
+
+📕  
+Introduction to AI & Machine Learning  
+
+📓  
+Algorithmic Thinking & Problem Solving  
+
+---
+
+## 🧪 Skills & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
@@ -63,122 +64,136 @@ I strongly believe in **learning by building**, and every project I create repre
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Academic Projects
 
 <div align="center">
 
-<div class="project-card">
+### 🌐 Personal Portfolio Website  
 
-### 🌐 Portfolio Website
+<img src="https://raw.githubusercontent.com/alyssagoyal/My-Portfolio/main/assets/preview.png" width="420" alt="Portfolio Preview"/>
 
-<img src="https://raw.githubusercontent.com/alyssagoyal/My-Portfolio/main/assets/preview.png" width="420"/>
+A professionally structured portfolio showcasing my projects, technical journey, and personal growth in Computer Science.
 
-A responsive, modern portfolio with interactive design, smooth navigation, and aesthetic UI.
+---
 
-</div>
+### 🏋️ Gym Membership Management System  
 
-<br>
+<img src="https://raw.githubusercontent.com/alyssagoyal/Gym-Management-System/main/assets/project-preview.png" width="420" alt="Gym Management System Preview"/>
 
-<div class="project-card">
-
-### 🏋️ Gym Membership Management System
-
-<img src="https://raw.githubusercontent.com/alyssagoyal/Gym-Management-System/main/assets/project-preview.png" width="420"/>
-
-Python + MySQL based console system with full CRUD functionality.
-
-</div>
+A Python + MySQL based system designed to demonstrate real-world database operations and structured programming.
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🎓 Academic Profile Snapshot
+
+🎯  
+Intended Major: **Computer Science**  
+
+📅  
+Graduation: **April 2026**  
+
+📍  
+Location: **Mumbai, India**  
+
+💡  
+Interests: **AI, Software Engineering, Human-Centered Tech**  
+
+📈  
+Focus Areas: **Logic, Data Structures, Web Technologies**  
+
+---
+
+## 🏆 Achievements & Engagement
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=alyssagoyal\&theme=onestar\&no-frame=true\&row=1\&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=alyssagoyal&theme=onestar&no-frame=true&row=1&column=7)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance
 
 <div align="center">
 
-![Alyssa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alyssagoyal\&show_icons=true\&theme=rose_pine\&hide_border=true)
+![Alyssa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alyssagoyal&show_icons=true&theme=rose_pine&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssagoyal\&layout=compact\&theme=rose_pine\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssagoyal&layout=compact&theme=rose_pine&hide_border=true)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Consistency & Activity
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alyssagoyal\&bg_color=0d1117\&color=f5c2e7\&line=cba6f7\&point=f38ba8\&area=true\&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alyssagoyal&bg_color=0d1117&color=f5c2e7&line=cba6f7&point=f38ba8&area=true&hide_border=true)
 
 </div>
 
 ---
 
-## 🚀 Live Preview Deployment Guide
+## 🚀 Live Portfolio Deployment Guide
 
-### ✅ Option 1: GitHub Pages (Recommended)
+### GitHub Pages
 
-1. Go to your Portfolio repository
-2. Click **Settings → Pages**
-3. Under Source, select:
+1. Go to your **Portfolio Repository** on GitHub.  
+2. Click **Settings** → **Pages**.  
+3. Under **Source**, select:
+   - Branch: `main`  
+   - Folder: `/root` (or `/docs` if you use that)  
+4. Click **Save**.  
+5. Your live site will be available at:  
+   ```text
+   https://alyssagoyal.github.io/My-Portfolio/
+````
 
-   * Branch: `main`
-   * Folder: `/root`
-4. Click Save
-5. Your live site will appear as:
+### Netlify (Alternative)
 
+1. Go to [https://www.netlify.com](https://www.netlify.com).
+2. Click **Deploy site** → **Drag & Drop** your built portfolio folder.
+3. Netlify will generate a live URL automatically.
+
+---
+
+## 🎨 Philosophy
+
+> *"Consistency builds excellence, and curiosity fuels innovation."*
+
+---
+
+## 📫 Contact & Academic Networking
+
+<div align="center">
+
+📧
+**Email:** `alyssagoyal7@gmail.com`
+
+🔗
+**LinkedIn:** [https://www.linkedin.com/in/alyssa-goyal-1a613139b/](https://www.linkedin.com/in/alyssa-goyal-1a613139b/)
+
+🌐
+**Portfolio:** Coming Soon
+
+</div>
+
+---
+
+<div align="center">
+
+## 💼 For Admission Committees
+
+This profile reflects my dedication to learning, my consistency in building projects, and my commitment to pursuing Computer Science at a higher academic level. I aim to contribute to innovative tech ecosystems and research-driven environments in the future.
+
+</div>
 ```
-https://alyssagoyal.github.io/My-Portfolio/
-```
-
-### ✅ Option 2: Netlify
-
-1. Visit [https://www.netlify.com](https://www.netlify.com)
-2. Drag and drop your portfolio folder
-3. Get instant live URL 🚀
-
----
-
-## 🎨 Quote I Live By
-
-> "Little progress every day adds up to big results."
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-✉️ Email: [alyssagoyal7@gmail.com](mailto:alyssagoyal7@gmail.com)
-🔗 LinkedIn: [https://www.linkedin.com/in/alyssa-goyal-1a613139b/](https://www.linkedin.com/in/alyssa-goyal-1a613139b/)
-🌐 Portfolio: Coming Soon
-
-</div>
-
----
-
-<div align="center">
-
-## 💖 Thank You For Visiting
-
-⭐ Star my repositories if you like my work
-🤍 Let's learn, build & grow together
-
-</div>
